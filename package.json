@@ -1,0 +1,24 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Meadowlark Traver Site",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DenisKruglik"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "learning"
+  ],
+  "author": "Denis Kruglik",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
